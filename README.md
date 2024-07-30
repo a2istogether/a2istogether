@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arun
-- 👀 I’m interested in Web Development and Android App Development
-- 🌱 I’m currently learning BCA and also WebDevelopment
+- 👀 I’m a Frontend Developer
+- 🌱 I’m currently learning Backend Development
 -My Instragram Id is a2_is_together
 
 <!---
