@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Arun, a passionate Full Stack developer with a focus on building responsive, user-friendly web applications. My current projects involve creating dynamic and interactive UIs using React, Redux Toolkit, and API integration. I aim to deliver clean, maintainable code while leveraging modern tools like Tailwind CSS for styling and Redux for state management.
+Hi there 👋<br>
+I'm Arun, a passionate Full Stack Developer dedicated to building responsive, high-performance web applications. I specialize in crafting dynamic and interactive user interfaces using React, Next.js, and Redux Toolkit, with seamless API integrations.
+
+On the backend, I work with Node.js, Express.js, and MongoDB to develop robust and scalable server-side applications. I also have experience with MySQL, RESTful APIs, and authentication systems.
+
+With a strong focus on clean, maintainable code, I leverage modern tools like Tailwind CSS for styling and Redux for state management. My goal is to deliver intuitive, scalable solutions that enhance user experience and solve real-world problems.
+
+
 
 
 ## 🌐 Socials:
