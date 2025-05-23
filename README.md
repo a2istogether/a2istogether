@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Arun, a passionate frontend developer with a focus on building responsive, user-friendly web applications. My current projects involve creating dynamic and interactive UIs using React, Redux Toolkit, and API integration. I aim to deliver clean, maintainable code while leveraging modern tools like Tailwind CSS for styling and Redux for state management.
+Hi there 👋<br>I'm Arun, a passionate Full Stack developer with a focus on building responsive, user-friendly web applications. My current projects involve creating dynamic and interactive UIs using React, Redux Toolkit, and API integration. I aim to deliver clean, maintainable code while leveraging modern tools like Tailwind CSS for styling and Redux for state management.
 
 
 ## 🌐 Socials:
